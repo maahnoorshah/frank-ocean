@@ -3,7 +3,7 @@ var angle = 0;
 
 function preload() {
   soundFormats('mp3', 'ogg');
-  soundFile = loadSound('Frank_Ocean_-_Nights.mp3');
+  soundFile = loadSound('Frank Ocean - Nights.mp3');
 }
 
 function setup() {
